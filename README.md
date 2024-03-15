@@ -1,16 +1,39 @@
-### Hi there 👋
+<h3 align="center">
+Olá! Eu sou o João Vittor Cesar
+</h3>
 
-<!--
-**joaovittorcesar/joaovittorcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">    
+  <div> 
+  <a href="https://instagram.com/joaovittor_cesar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/angelnoiteiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/878286817617649756" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "angelnoiteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joaovittorcesar&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=false&theme=tokyonight&locale=pt-BR" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovittorcesar&layout=compact&title_color=0080ff&locale=pt-BR&theme=tokyonight" />
+</div>
+
+---
+
+## Tecnologias que eu domino:
+
+- HTML
+- CSS
+- Javascript
+- Banco de dados SQL
+- Node.js
+- C#
+- Angular
+- Ionic
+- Cordova
+- JAVA
