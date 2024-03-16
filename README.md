@@ -19,7 +19,7 @@ Olá! Eu sou o João Vittor Cesar
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovittorcesar&layout=compact&title_color=0080ff&locale=pt-BR&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovittorcesar&layout=donut-vertical&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=false&theme=tokyonight&locale=pt-BR" />
 </div>
 
 ---
