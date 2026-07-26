@@ -27,9 +27,17 @@ No meu dia a dia gosto de criar projetos, testar tecnologias novas e encontrar f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaovittorcesar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR"/>
+<table>
+<tr>
+<td>
+<img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=joaovittorcesar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&border_radius=20&locale=pt-BR"/>
+</td>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovittorcesar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-BR"/>
+<td>
+<img height="190em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaovittorcesar&layout=compact&hide_border=true&langs_count=8&theme=transparent&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&border_radius=20&locale=pt-BR"/>
+</td>
+</tr>
+</table>
 
 </div>
 
