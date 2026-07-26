@@ -1,39 +1,108 @@
+<h1 align="center">
+  Olá 👋, eu sou João Vittor Cesar Silva
+</h1>
+
 <h3 align="center">
-Olá! Eu sou o João Vittor Cesar Silva
+  Desenvolvedor Full Stack apaixonado por tecnologia e criação de soluções
 </h3>
 
-<div align="center">    
-  <div> 
-  <a href="https://instagram.com/joaovittor_cesar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://devangelzin.top/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-7cf87c?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.linkedin.com/in/joaovittorcesar/"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-</div>
+<p align="center">
+  Desenvolvedor focado em criar aplicações web, APIs e sistemas completos.
+  Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em código.
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Meu nome é **João Vittor Cesar Silva**.
+
+Sou desenvolvedor Full Stack e gosto de entender como as coisas funcionam por trás das aplicações, desde a interface até a infraestrutura necessária para colocar um projeto em produção.
+
+Tenho experiência trabalhando com **Front-end, Back-end, bancos de dados e servidores**, sempre buscando melhorar a qualidade do código, organização dos projetos e aprender novas ferramentas.
+
+No meu dia a dia gosto de criar projetos, testar tecnologias novas e encontrar formas melhores de desenvolver soluções.
 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaovittorcesar&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=false&theme=tokyonight&locale=pt-BR" />
-</div>
 
-<br/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaovittorcesar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovittorcesar&layout=donut&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=false&theme=tokyonight&locale=pt-BR" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovittorcesar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-BR"/>
+
 </div>
 
 ---
 
-## Tecnologias que eu domino:
+# 🛠️ Tecnologias
 
-- HTML
-- CSS
-- Javascript
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,cs,angular,ionic,mysql,postgres,mongodb,docker,linux,git,github,vscode&perline=9"/>
+
+</div>
+
+---
+
+# 💻 Experiência e conhecimentos
+
+## Front-end
+- Desenvolvimento de interfaces responsivas
 - React
-- Banco de dados SQL
-- Node.js
-- C#
 - Angular
+- JavaScript / TypeScript
+- Consumo de APIs REST
+
+
+## Back-end
+- Criação de APIs
+- Node.js
+- Java
+- C#
+- Organização de sistemas e regras de negócio
+
+
+## Banco de Dados
+- MySQL
+- PostgreSQL
+- MongoDB
+- Modelagem e manipulação de dados
+
+
+## Mobile
 - Ionic
 - Cordova
-- JAVA
+- Desenvolvimento de aplicações híbridas
+
+
+## Infraestrutura
+- Linux
+- Docker
+- Nginx
+- Deploy de aplicações
+- Git e GitHub
+
+---
+
+# 📚 Atualmente estudando
+
+- Arquitetura de software
+- Boas práticas de programação
+- Desenvolvimento escalável
+- Cloud e DevOps
+
+---
+
+# 🚀 Minha forma de trabalhar
+
+```text
+💭 Ideia
+   ↓
+📋 Planejamento
+   ↓
+💻 Desenvolvimento
+   ↓
+🔍 Testes e ajustes
+   ↓
+🌎 Projeto em produção
